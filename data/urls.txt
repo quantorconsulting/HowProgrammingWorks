@@ -1,105 +1,214 @@
-### CONTINUE FROM https://github.com/orgs/HowProgrammingWorks/repositories?page=5
+### CONTINUE FROM https://github.com/orgs/HowProgrammingWorks/repositories?page=8
+https://github.com/HowProgrammingWorks/AbstractClass [] Abstract class can't be instantiated directly
 https://github.com/HowProgrammingWorks/AbstractFactory [] Abstract Factory Pattern
 https://github.com/HowProgrammingWorks/AbstractionLayers [] Abstraction Layers
 https://github.com/HowProgrammingWorks/Abstractions [] Programming is abstract thinking
+https://github.com/HowProgrammingWorks/ACID [] Atomicity, Consistency, Isolation, Durability
 https://github.com/HowProgrammingWorks/ActorModel [] ...
 https://github.com/HowProgrammingWorks/Adapter [] Pattern Adapter Implementations
 https://github.com/HowProgrammingWorks/Antipatterns [] ...
 https://github.com/HowProgrammingWorks/API [] ...
+https://github.com/HowProgrammingWorks/Application [] Browser application loader example
 https://github.com/HowProgrammingWorks/Arrays [] ...
+https://github.com/HowProgrammingWorks/Articles [] Links to Articles
+https://github.com/HowProgrammingWorks/Association [] Associations: Aggregation and Composition
+https://github.com/HowProgrammingWorks/AsyncAdapter [] Asynchronous Adapters
 https://github.com/HowProgrammingWorks/AsyncAwait [] ...
+https://github.com/HowProgrammingWorks/AsyncCompose [] Asynchronous Function Composition
+https://github.com/HowProgrammingWorks/AsyncGenerator [] Asynchronous Generators
 https://github.com/HowProgrammingWorks/AsynchronousProgramming [] ...
 https://github.com/HowProgrammingWorks/AsyncIterator [] ...
 https://github.com/HowProgrammingWorks/Atomics [] Atomic Operations API
 https://github.com/HowProgrammingWorks/Automata [] Automata-based programming
 https://github.com/HowProgrammingWorks/Benchmark [] Performance testing for different techniques
+https://github.com/HowProgrammingWorks/Bridge [] Use bridge to decouple an abstraction from its implementation
+https://github.com/HowProgrammingWorks/Buffers [] Binary Buffers
+https://github.com/HowProgrammingWorks/Builder [] Separates the construction of a complex object from its representation
 https://github.com/HowProgrammingWorks/Callbacks [] Callbacks, Listeners and Events
 https://github.com/HowProgrammingWorks/Cancelable [] Cancelable Asynchronous Abstractions
+https://github.com/HowProgrammingWorks/Certification [] Certificates of Qualification in Software Engineering
 https://github.com/HowProgrammingWorks/Chaining [] Chaining with classes, ptototypes and functors
 https://github.com/HowProgrammingWorks/ChainOfResponsibility [] Pattern: Chain of responsibility
+https://github.com/HowProgrammingWorks/Cheatsheet [] Language Cheatsheet
 https://github.com/HowProgrammingWorks/Closure [] ...
 https://github.com/HowProgrammingWorks/CodeReview [] Code Review Examples
 https://github.com/HowProgrammingWorks/Collections [] Different types of Associative Collections
 https://github.com/HowProgrammingWorks/Collector [] ...
+https://github.com/HowProgrammingWorks/Command [] Pattern Command
 https://github.com/HowProgrammingWorks/CommandLine [] CLI, Command Line Interface and Console
+https://github.com/HowProgrammingWorks/Complexity [] Computational complexity including Big O notation
+https://github.com/HowProgrammingWorks/Composite [] Composite pattern
 https://github.com/HowProgrammingWorks/Composition [] ...
+https://github.com/HowProgrammingWorks/Concurrency [] ConcurrentQueue, throttling, etc.
 https://github.com/HowProgrammingWorks/ConcurrentQueue [] Asynchronous Concurrent Queue with Priority and Factor
+https://github.com/HowProgrammingWorks/Configuration [] Application configuration
 https://github.com/HowProgrammingWorks/Contract [] Programming by contract, Design by contract (DbC), Contract-based Programming
 https://github.com/HowProgrammingWorks/Controller [] GRASP: Controller principle
 https://github.com/HowProgrammingWorks/CouplingCohesion [] GRASP: Low coupling and High cohesion
 https://github.com/HowProgrammingWorks/CQRS [] Command-Query Responsibility Segregation
+https://github.com/HowProgrammingWorks/CQS [] CQS - Command-query separation principle
+https://github.com/HowProgrammingWorks/CRDT [] Conflict-free Data Types
 https://github.com/HowProgrammingWorks/Creator [] GRASP: Creator principle
+https://github.com/HowProgrammingWorks/CSRF [] Cross-Site Request Forgery (CSRF)
+https://github.com/HowProgrammingWorks/Databases [] Work with Database Management Systems
+https://github.com/HowProgrammingWorks/DataDrivenProgramming [] Data-driven Programming
+https://github.com/HowProgrammingWorks/DataStructures [] Data structures basics
+https://github.com/HowProgrammingWorks/DataSync [] Inter-process Data Structures Synchronization
 https://github.com/HowProgrammingWorks/DataTypes [] ...
 https://github.com/HowProgrammingWorks/DDD [] ...
 https://github.com/HowProgrammingWorks/Deadlock [] Deadlock and Livelock Examples
+https://github.com/HowProgrammingWorks/Decomposition [] Decomposition and refactoring
 https://github.com/HowProgrammingWorks/Deferred [] Deferred (and comparison to Future and Promise)
 https://github.com/HowProgrammingWorks/DependencyInjection [] Resolving dependencies with dependency injection
+https://github.com/HowProgrammingWorks/DependencyInversion [] The Dependency Inversion Principle
+https://github.com/HowProgrammingWorks/Dequeue [] Stack, Queue and Dequeue
+https://github.com/HowProgrammingWorks/DesignPatterns [] Design Patterns
 https://github.com/HowProgrammingWorks/Dictionary [] ...
+https://github.com/HowProgrammingWorks/DoS [] Denial of Service (DoS)
+https://github.com/HowProgrammingWorks/DSL [] Language-oriented programming and domain-specific languages
+https://github.com/HowProgrammingWorks/EMail [] Send emails
+https://github.com/HowProgrammingWorks/Enum [] Enumerated type
+https://github.com/HowProgrammingWorks/Eratosthenes [] Sieve of Eratosthenes
+https://github.com/HowProgrammingWorks/Errors [] Error handling
 https://github.com/HowProgrammingWorks/ESNext [] ES.Next Examples
 https://github.com/HowProgrammingWorks/EventDrivenProgramming [] Event-driven programming
 https://github.com/HowProgrammingWorks/EventEmitter [] Simple EventEmitter with multiple listeners
 https://github.com/HowProgrammingWorks/EventSourcing [] Event Sourcing
 https://github.com/HowProgrammingWorks/Exams [] Exams readiness test
+https://github.com/HowProgrammingWorks/Expirable [] Expirable Promises
+https://github.com/HowProgrammingWorks/FaaS [] Function as a Service
 https://github.com/HowProgrammingWorks/Facade [] Pattern Facade Implementations
 https://github.com/HowProgrammingWorks/Factory [] Factory for FP, OOP, other paradigms and metaprogramming
 https://github.com/HowProgrammingWorks/FactoryMethod [] Factory method
 https://github.com/HowProgrammingWorks/Files [] Files and file system
+https://github.com/HowProgrammingWorks/FileStorage [] File Storage
+https://github.com/HowProgrammingWorks/FilesystemWatch [] Watch filesystem for changes
+https://github.com/HowProgrammingWorks/Flyweight [] Minimizes memory usage by sharing data with other similar objects
 https://github.com/HowProgrammingWorks/Function [] ...
+https://github.com/HowProgrammingWorks/FunctionalProgramming [] Functional Programming
 https://github.com/HowProgrammingWorks/Functor [] Mappable objects
 https://github.com/HowProgrammingWorks/Future [] Future as Asynchronous Abstraction
+https://github.com/HowProgrammingWorks/GarbageCollection [] Garbage collection
 https://github.com/HowProgrammingWorks/Generator [] ...
+https://github.com/HowProgrammingWorks/Generics [] Generic Programming
+https://github.com/HowProgrammingWorks/GeoIP [] Lookup city, region and address by IP with GeoIP database
+https://github.com/HowProgrammingWorks/Global [] Global context pollution problem
+https://github.com/HowProgrammingWorks/go-meetups [] Lectures of Go meetups at HowProgrammingWorks
 https://github.com/HowProgrammingWorks/GracefulShutdown [] ...
+https://github.com/HowProgrammingWorks/Graph [] Directed graph implementations
+https://github.com/HowProgrammingWorks/GRASP [] General Responsibility Assignment Software Patterns
 https://github.com/HowProgrammingWorks/Higher-code [] ...
 https://github.com/HowProgrammingWorks/HigherOrderFunction [] Higher-order functions having functions as arguments or result
 https://github.com/HowProgrammingWorks/HttpRequest [] HTTP, XMLHttpRequest, fetch
+https://github.com/HowProgrammingWorks/Immutable [] Immutable data structures
+https://github.com/HowProgrammingWorks/ImperativeProgramming [] Imperative, non-structured, structured and procedural programming
 https://github.com/HowProgrammingWorks/Index [] ...
+https://github.com/HowProgrammingWorks/Indirection [] GRASP: Indirection pronciple
+https://github.com/HowProgrammingWorks/InformationExpert [] GRASP: Information Expert
 https://github.com/HowProgrammingWorks/InformationHiding [] Information Hiding
+https://github.com/HowProgrammingWorks/Inheritance []
 https://github.com/HowProgrammingWorks/IntegrationTesting [] Integration testing
 https://github.com/HowProgrammingWorks/Interface [] Structure defining class external members names and types
+https://github.com/HowProgrammingWorks/InterfaceSegregation [] The Interface Segregation Principle
 https://github.com/HowProgrammingWorks/InterProcessCommunication [] ...
+https://github.com/HowProgrammingWorks/Introduction [] Introduction to programming
+https://github.com/HowProgrammingWorks/Introspection [] Introspection is a Runtime Examinations of Program Components
+https://github.com/HowProgrammingWorks/InversionOfControl [] IoC: dependency injection, module sandboxing, framework wrappers, etc.
 https://github.com/HowProgrammingWorks/Isolation [] ...
 https://github.com/HowProgrammingWorks/Iteration [] ...
 https://github.com/HowProgrammingWorks/Iterator [] Iterator and Iterable protocols
+https://github.com/HowProgrammingWorks/KeyValue [] KeyValue Collections
+https://github.com/HowProgrammingWorks/KnowledgeMap [] Knowledge dependency map visualization tool
+https://github.com/HowProgrammingWorks/LawOfDemeter [] Law of Demeter (LoD) principle of least knowledge in component coupling
+https://github.com/HowProgrammingWorks/Lazy [] Lazy Operations and Data Transformations
+https://github.com/HowProgrammingWorks/LCM-GCD [] Least Common Multiple and Greatest common divisor
+https://github.com/HowProgrammingWorks/Lenses [] Lenses, fp getter & setter
+https://github.com/HowProgrammingWorks/Letters [] Письма к студентам курса
 https://github.com/HowProgrammingWorks/LinkedList [] Linked list data structure
 https://github.com/HowProgrammingWorks/LiskovSubstitution [] The Liskov Substitution Principle
+https://github.com/HowProgrammingWorks/LiveCoding [] Live Coding Server
 https://github.com/HowProgrammingWorks/LiveQA [] Programming, JavaScript, Node.js, Architecture Seminars
+https://github.com/HowProgrammingWorks/LiveReload [] Serve static files with live reload filesystem changes
 https://github.com/HowProgrammingWorks/LiveTable [] Multiuser spreadsheet example
+https://github.com/HowProgrammingWorks/LockFree [] Lock-free Data Structures
 https://github.com/HowProgrammingWorks/Logging [] Logging in Node.js and JavaScript
 https://github.com/HowProgrammingWorks/Lowcode [] ...
 https://github.com/HowProgrammingWorks/Map [] Map as Associative Array
+https://github.com/HowProgrammingWorks/Mediator [] Define an interaction between instances as a separate instance
+https://github.com/HowProgrammingWorks/Memento [] Memento Pattern
 https://github.com/HowProgrammingWorks/Memoization [] ...
+https://github.com/HowProgrammingWorks/MemoryLeaks [] Memory Leaks
 https://github.com/HowProgrammingWorks/Metaprogramming [] Metaprogramming examples
+https://github.com/HowProgrammingWorks/Mixin [] Mixin behavior, structure and relations
 https://github.com/HowProgrammingWorks/Modularity [] ...
+https://github.com/HowProgrammingWorks/Monitor [] Synchronization Monitor
+https://github.com/HowProgrammingWorks/Monomorphism [] Monomorphism and Polymorphism
 https://github.com/HowProgrammingWorks/Mutex [] ...
+https://github.com/HowProgrammingWorks/Node.js-2020 [] Node.js in 2020: Get out and come back again
 https://github.com/HowProgrammingWorks/NodejsStarterKit [] ...
 https://github.com/HowProgrammingWorks/NodejsStarterKit [] Starter Kit for Node.js 16 or later, minimum dependencies 🚀
 https://github.com/HowProgrammingWorks/NodeServer [] ...
 https://github.com/HowProgrammingWorks/NonBlocking []
+https://github.com/HowProgrammingWorks/Null [] NPE, Null object, Optional, Maybe
+https://github.com/HowProgrammingWorks/ObjectComposition [] Object Composition or Aggregation
 https://github.com/HowProgrammingWorks/ObjectOrientedProgramming [] Object-oriented programming
 https://github.com/HowProgrammingWorks/Observer [] Pattern Observer
+https://github.com/HowProgrammingWorks/OpenClosed [] The Open Closed Principle
+https://github.com/HowProgrammingWorks/Packages [] Node.js Packages
 https://github.com/HowProgrammingWorks/PartialApplication [] ...
 https://github.com/HowProgrammingWorks/PathTraversal [] Path Traversal Attack
+https://github.com/HowProgrammingWorks/Polymorphism []  JavaScript MIT  2  1  0  0 Updated on Apr 8, 2022
 https://github.com/HowProgrammingWorks/Pool [] Object Pool
+https://github.com/HowProgrammingWorks/Principles [] General Programming Principles
+https://github.com/HowProgrammingWorks/PrivateFields [] Private Fields
+https://github.com/HowProgrammingWorks/Profile [] Personal profile of software engineering skills
+https://github.com/HowProgrammingWorks/Project [] Example project
+https://github.com/HowProgrammingWorks/Projection [] Data structures projection
 https://github.com/HowProgrammingWorks/Promise [] ...
 https://github.com/HowProgrammingWorks/PromiseError [] ...
+https://github.com/HowProgrammingWorks/PromiseExperiments [] Experimental code examples with promises
+https://github.com/HowProgrammingWorks/ProtectedVariations [] GRASP: Protected Variations principle
+https://github.com/HowProgrammingWorks/Prototype [] Prototype-oriented programming
+https://github.com/HowProgrammingWorks/PrototypeChain [] Chain of Prototype Inheritance
 https://github.com/HowProgrammingWorks/Proxy [] Proxy
 https://github.com/HowProgrammingWorks/PureFabrication [] GRASP: Pure Fabrication
+https://github.com/HowProgrammingWorks/RaceCondition [] Race Condition
 https://github.com/HowProgrammingWorks/ReactiveProgramming [] Reactive Programming
 https://github.com/HowProgrammingWorks/Recursion [] Recursion - define a function using itself
 https://github.com/HowProgrammingWorks/Refactoring [] Refactoring — changing the code without changing its external behavior
+https://github.com/HowProgrammingWorks/Reflect [] Reflect API
+https://github.com/HowProgrammingWorks/Reflection [] Reflection allows programs to introspect and modify its structure and behavior at runtime
+https://github.com/HowProgrammingWorks/RegExp [] Regular Expression is a Syntax to Define String Pattern
+https://github.com/HowProgrammingWorks/ResourceStarvation [] Resource Starvation Examples
 https://github.com/HowProgrammingWorks/Reusable []
 https://github.com/HowProgrammingWorks/RevealingConstructor [] Revealing Constructor Pattern
+https://github.com/HowProgrammingWorks/Review [] Projects for Review
+https://github.com/HowProgrammingWorks/rust-meetups []
 https://github.com/HowProgrammingWorks/Rx [] Reactive Extensions (Rx)
+https://github.com/HowProgrammingWorks/Sandboxes [] VM Sandboxes
 https://github.com/HowProgrammingWorks/Scaffolding [] ...
+https://github.com/HowProgrammingWorks/Schema [] Schema for APIs, Data structures and Databases
 https://github.com/HowProgrammingWorks/School [] Modern school program
 https://github.com/HowProgrammingWorks/Semaphore [] ...
 https://github.com/HowProgrammingWorks/Serialization []
 https://github.com/HowProgrammingWorks/ServeStatic [] ...
+https://github.com/HowProgrammingWorks/ServiceWorker [] Service Workers for PWA caching, proxy and offline
 https://github.com/HowProgrammingWorks/Session [] HTTP server with sessions, tokens, cookies
+https://github.com/HowProgrammingWorks/Set [] Set is a Collection of Distinct Values or Objects
 https://github.com/HowProgrammingWorks/SingleResponsibility [] The Single Responsibility Principle
 https://github.com/HowProgrammingWorks/Singleton [] ...
 https://github.com/HowProgrammingWorks/Socket [] ...
+https://github.com/HowProgrammingWorks/SOLID [] Single responsibility, Open-closed, Liskov substitution, Interface segregation и Dependency inversion
+https://github.com/HowProgrammingWorks/Sorting [] Sorting Algorithms
+https://github.com/HowProgrammingWorks/SQL [] Structured Query Language
+https://github.com/HowProgrammingWorks/SQLConstraints [] SQL constraints indexes, checks, nullable, primary and foreign
 https://github.com/HowProgrammingWorks/SQLInjection [] SQL Injection
+https://github.com/HowProgrammingWorks/SQLJoins [] SQL Joins: CROSS, LEFT, RIGHT, INNER, OUTER, FULL
+https://github.com/HowProgrammingWorks/SQLWebClient [] SQL Web Client
+https://github.com/HowProgrammingWorks/StackTrace [] Stack Trace problem in Node.js
+https://github.com/HowProgrammingWorks/State [] Pattern State
+https://github.com/HowProgrammingWorks/StateMachine [] Finite-State Machine or Finite-State Automaton
+https://github.com/HowProgrammingWorks/Strategy [] Strategy Pattern
 https://github.com/HowProgrammingWorks/Streams [] ...
 https://github.com/HowProgrammingWorks/String [] String is a Sequence of Characters and Manipulation Methods
 https://github.com/HowProgrammingWorks/Struct [] Record, struct or structure
@@ -107,9 +216,21 @@ https://github.com/HowProgrammingWorks/Stub [] Stub function, method, object
 https://github.com/HowProgrammingWorks/Symbol [] Unique identifier for special object properties
 https://github.com/HowProgrammingWorks/Testing [] «Why Testing» in examples
 https://github.com/HowProgrammingWorks/Thenable [] ...
+https://github.com/HowProgrammingWorks/ThesisTopics [] Students Thesis Topics List
 https://github.com/HowProgrammingWorks/Threads [] Multithreading: WorkerThreads, Workers, SheredWorkers
 https://github.com/HowProgrammingWorks/Timers [] ...
 https://github.com/HowProgrammingWorks/Tools [] Development tools and environment configuration
+https://github.com/HowProgrammingWorks/Transaction [] Atomic transaction container for struct or object
+https://github.com/HowProgrammingWorks/Transaction [] Atomic transaction container for struct or object
+https://github.com/HowProgrammingWorks/Trees [] Tree node with 5 pointers
+https://github.com/HowProgrammingWorks/TypedArrays [] ArrayBuffer, DataView, Int8Array, Uint8Array, Uint8ClampedArray, Int16Array, Uint16Array, Int32Array, Uint32Array, Float32Array, Float64Array
 https://github.com/HowProgrammingWorks/Unittesting [] Unit Testing
+https://github.com/HowProgrammingWorks/Vectors [] Vector Collections
+https://github.com/HowProgrammingWorks/VersionControl [] Git Version Control System and GitHub Usage Recommendations
+https://github.com/HowProgrammingWorks/Visitor [] Visitor Pattern
+https://github.com/HowProgrammingWorks/WebAPI [] Web API overview
+https://github.com/HowProgrammingWorks/WebAssembly [] JavaScript WebAssembly API
 https://github.com/HowProgrammingWorks/WebsocketChat [] ...
 https://github.com/HowProgrammingWorks/Workers [] Node.js workers and Web workers
+https://github.com/HowProgrammingWorks/Wrapper [] Wrapper functions, Interface wrappers, etc.
+https://github.com/HowProgrammingWorks/XSS [] Cross-site Scripting (XSS)
